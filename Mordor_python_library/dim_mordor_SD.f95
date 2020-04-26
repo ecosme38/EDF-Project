@@ -1,0 +1,9 @@
+real,parameter	      :: NODATA=-9999.
+integer,parameter     :: ndon=13 
+integer,parameter     :: nstock=10
+integer,parameter     :: nres=74
+integer,parameter     :: nflag=10
+integer,parameter     :: npmt=100
+integer,parameter     :: ftrm=480
+integer,parameter     :: ncond=72
+integer,parameter     :: tmax=2000
