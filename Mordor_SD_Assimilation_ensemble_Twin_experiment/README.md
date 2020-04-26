@@ -20,7 +20,7 @@ The Initialization interface (beginning line 305) groupes
 All parameters to modify
 
 # year of the end of assimilation
-year = 2017
+year = 2018
 
 # date of beginning of simulation
 d_ini_known   = str(year-3) + "-09-01"
